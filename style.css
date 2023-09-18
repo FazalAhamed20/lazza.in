@@ -1,0 +1,172 @@
+.header{
+    background: black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+   
+    
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 120px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 6px;
+    position: sticky;
+    top: 0;
+}
+.font{
+    margin-left: 350px;
+    position: sticky;
+    top: 0;
+    font-family: sans-serif;
+}
+.font a{
+    color: aliceblue;
+    margin-left: 30px;
+    position: sticky;
+    top: 0;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.main{
+    width: 100%;
+    
+}
+.search{
+   height: 30px;
+   width: 30px;
+   margin-left: 50px;
+}
+.cart{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+
+}
+.account{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+h1{
+    font-size: 46px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 300px;
+}
+
+.sugar{
+    width: 400px;
+    height: 300px;
+}
+.sec1{
+    width: 100%;
+    height: 600px;
+
+}
+.iceimage1{
+    width: 100%;
+    height: 350px;
+    display: flex;
+}
+.image1{
+    width: 30%;
+    
+    
+
+}
+.img1{
+    width: 303px;
+    height: 277px;
+    margin-left: 108px;
+    transition:transform 2s;
+    
+
+}
+.image1:hover .img1{
+    transform: scale(1.2);
+    
+}
+.txt1{
+    margin-left: 220px;
+}
+
+.footer{
+    background: black;
+    width: 100%;
+    height: 35%;
+   
+    
+}
+.final{
+    width: 100%;
+    height: 250px;
+}
+.simons{
+    height: 150px;
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.container2{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    
+}
+.text1{
+
+}
+.row1{
+    width: 17%;
+    color: #be9509;
+}
+h4{
+    color:#be9509;
+    margin-left: 40px;
+}
+.font2 a{
+    color: #be9509;
+    margin-left: 40px;
+}
+.fb{
+    width: 30px;
+    height: 30px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+.pin{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+.footerlogo{
+    width: 150px;
+    height: 150px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+
+}
+.row2{
+    border-bottom-color: aliceblue;
+}
+.link{
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+    
+}
